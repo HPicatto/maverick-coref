@@ -14,7 +14,7 @@ setup(
         "nltk==3.9.2",
         "pandas>=2.3",
         "protobuf>=5.29",
-        "pytorch-lightning>=2.6",
+        "pytorch-lightning>=2.4,<2.6",
         "sentencepiece==0.2",
         "scipy>=1.10",
         "spacy>=3.7.2",
